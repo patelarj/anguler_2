@@ -1,0 +1,9 @@
+{
+    "dinner": 
+      [
+          {"name": "Classic Chicken Casserole","price":"$50", "calories":"390"},
+          {"name": "Vegetarian pie","price":"$60", "calories":"327"},
+          {"name": "Baked sausage and gnocchi gratin","price":"$65", "calories":"426"}
+          
+    ]
+  }

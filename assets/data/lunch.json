@@ -1,0 +1,9 @@
+{
+    "lunch": 
+      [
+          {"name": "Veggie & Hummus Sandwich","price":"$15", "calories":"325"},
+          {"name": "Crunchy Mexican Salad with Spicy Cilantro Vinaigrette","price":"$25", "calories":"404"},
+          {"name": "Pita Pizza ","price":"$30", "calories":"376"}
+          
+    ]
+  }

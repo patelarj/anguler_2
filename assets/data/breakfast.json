@@ -1,0 +1,9 @@
+{
+    "breakfast": 
+      [
+          {"name": "SMOKED SALMON","price":"$10", "calories":"33"},
+          {"name": "BACON","price":"$20", "calories":"37"},
+          {"name": "GRAPEFRUIT","price":"$30", "calories":"82"}
+          
+    ]
+  }
